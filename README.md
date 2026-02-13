@@ -1,4 +1,4 @@
-<h1 align="center">⚡ LFDECO ⚡</h1>
+<h1 align="center">Siddhartha</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LFDECO&label=PROFILE%20VIEWS&color=blue&style=for-the-badge" />
