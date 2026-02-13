@@ -19,7 +19,7 @@ jobs:
       - name: Install jq
         run: sudo apt-get update && sudo apt-get install -y jq
 
-      - name: Fetch Latest LeetCode Solves (Problem Names Only)
+      - name: Fetch Latest LeetCode Solves (Clean)
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -29,7 +29,7 @@ jobs:
             -H "Authorization: Bearer $GH_TOKEN" \
             -H "Accept: application/vnd.github+json" \
             -H "User-Agent: github-actions" \
-            "https://api.github.com/repos/LFDECO/Leetcode-solutions/commits?per_page=5")
+            "https://api.github.com/repos/LFDECO/Leetcode-solutions/commits?per_page=10")
 
           echo "$COMMITS" | jq -r '.[].sha' | while read sha; do
 
@@ -43,12 +43,22 @@ jobs:
 
                 PROBLEM=$(echo "$file" | cut -d'/' -f1)
 
+                # ignore root files like README.md, stats.json
+                if [[ "$PROBLEM" == *".md" ]] || [[ "$PROBLEM" == *".json" ]]; then
+                  continue
+                fi
+
+                # only allow real LeetCode folder format like 0184-department-highest-salary
+                if [[ ! "$PROBLEM" =~ ^[0-9]{4}- ]]; then
+                  continue
+                fi
+
+                # avoid duplicates
                 if ! grep -q "$PROBLEM" lc_feed.txt; then
-                  echo "<li>🔥 <a href=\"https://github.com/LFDECO/Leetcode-solutions/tree/main/$PROBLEM\"><b>$PROBLEM</b></a></li>" >> lc_feed.txt
+                  echo "<li><a href=\"https://github.com/LFDECO/Leetcode-solutions/tree/main/$PROBLEM\"><b>$PROBLEM</b></a></li>" >> lc_feed.txt
                 fi
 
             done
-
           done
 
           echo "</ul>" >> lc_feed.txt
