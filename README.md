@@ -38,9 +38,8 @@
 
 <!-- LEETCODE_SOLVES:START -->
 <ul>
-<li>🔥 <a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/stats.json"><b>stats.json</b></a></li>
-<li>🔥 <a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/README.md"><b>README.md</b></a></li>
-<li>🔥 <a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0184-department-highest-salary"><b>0184-department-highest-salary</b></a></li>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0184-department-highest-salary"><b>0184-department-highest-salary</b></a></li>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/2235-add-two-integers"><b>2235-add-two-integers</b></a></li>
 </ul>
 <!-- LEETCODE_SOLVES:END -->
 
