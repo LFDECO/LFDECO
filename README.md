@@ -38,8 +38,8 @@
 
 <!-- LEETCODE_SOLVES:START -->
 <ul>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/1378-replace-employee-id-with-the-unique-identifier"><b>1378-replace-employee-id-with-the-unique-identifier</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0184-department-highest-salary"><b>0184-department-highest-salary</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/2235-add-two-integers"><b>2235-add-two-integers</b></a></li>
 </ul>
 <!-- LEETCODE_SOLVES:END -->
 
