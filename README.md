@@ -30,7 +30,8 @@
 
 ## 💻 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LFDECO&layout=compact&theme=tokyonight&cache_seconds=86400)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LFDECO&layout=compact&theme=tokyonight)
+
 
 
 ---
