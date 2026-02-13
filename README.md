@@ -1,30 +1,27 @@
-<h1 align="center">Siddhartha</h1>
+<h1 align="center">⚡ Siddhartha ⚡</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LFDECO&label=PROFILE%20VIEWS&color=blue&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/LFDECO?label=FOLLOWERS&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/LFDECO?label=STARS&style=for-the-badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=800&color=00BFFF&center=true&vCenter=true&width=800&lines=LeetCode+Daily+Grinder;DSA+%7C+DBMS+%7C+ML;C+%7C+C%2B%2B+%7C+Java+%7C+Python;Building+Fundamentals+%F0%9F%94%A5" />
 </p>
 
 <p align="center">
   <a href="https://leetcode.com/LFDECO">
-    <img src="https://img.shields.io/badge/LEETCODE-LFDECO-black?style=for-the-badge&logo=leetcode"/>
+    <img src="https://img.shields.io/badge/LeetCode-LFDECO-black?style=for-the-badge&logo=leetcode"/>
   </a>
   <a href="https://github.com/LFDECO">
-    <img src="https://img.shields.io/badge/GITHUB-LFDECO-black?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-LFDECO-black?style=for-the-badge&logo=github"/>
   </a>
   <a href="https://www.linkedin.com/in/siddhartha-bhaduri-6468142ab/">
-    <img src="https://img.shields.io/badge/LINKEDIN-SIDDHARTHA-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Siddhartha-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://www.instagram.com/deco.outlap/">
-    <img src="https://img.shields.io/badge/INSTAGRAM-DECO.OUTLAP-pink?style=for-the-badge&logo=instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-deco.outlap-pink?style=for-the-badge&logo=instagram"/>
   </a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=800&color=00BFFF&center=true&vCenter=true&width=650&lines=LeetCode+Daily+Grinder;DSA+%7C+DBMS+%7C+ML;C+%7C+C%2B%2B+%7C+Java+%7C+Python;Built+on+Fundamentals+%F0%9F%94%A5" />
+  <img src="https://komarev.com/ghpvc/?username=LFDECO&label=PROFILE%20VIEWS&color=blue&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/LFDECO?label=FOLLOWERS&style=for-the-badge" />
 </p>
 
 ---
@@ -34,6 +31,13 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/LFDECO?theme=dark&font=Karma&ext=contest" />
 </p>
+
+---
+
+<h2 align="center">🔥 Recently Solved LeetCode Problems</h2>
+
+<!-- LEETCODE_SOLVES:START -->
+<!-- LEETCODE_SOLVES:END -->
 
 ---
 
@@ -53,14 +57,6 @@
 
 ---
 
-<h2 align="center">🏅 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LFDECO&theme=tokyonight&no-frame=true&row=2&column=4" />
-</p>
-
----
-
 <h2 align="center">🛠 Tech Stack</h2>
 
 <p align="center">
@@ -69,7 +65,7 @@
 
 ---
 
-<h2 align="center">⚡ Live Activity</h2>
+<h2 align="center">⚡ GitHub Activity Graph</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LFDECO&theme=tokyo-night&hide_border=true" />
@@ -82,10 +78,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/LFDECO/LFDECO/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
----
-
-<h2 align="center">🔥 Recently Solved LeetCode Problems</h2>
-
-<!-- RECENT_ACTIVITY:start -->
-<!-- RECENT_ACTIVITY:end -->
