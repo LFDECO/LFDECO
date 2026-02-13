@@ -1,58 +1,84 @@
-# 👋 Hey, I'm Siddhartha 🚀
+<h1 align="center">Siddhartha Bhaduri</h1>
+<h3 align="center">CSE Student • LeetCode + DSA • DBMS + ML • Motorsport Engineering Aspirant 🏎️</h3>
 
-🎓 CSE Student | 💻 LeetCode + DSA | 🧠 DBMS + ML  
-🏎️ Aspiring Motorsport Engineer (F1 / WEC)
-
----
-
-## 🌐 Connect with me
-
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/LFDECO)
-[![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode)](https://leetcode.com/LFDECO)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/siddhartha-bhaduri-6468142ab/)
-[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/deco.outlap/)
-
----
-
-## 📊 LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/LFDECO?theme=dark&font=Karma&ext=contest)
+<p align="center">
+  <a href="https://github.com/LFDECO">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://leetcode.com/LFDECO">
+    <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode"/>
+  </a>
+  <a href="https://www.linkedin.com/in/siddhartha-bhaduri-6468142ab/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://www.instagram.com/deco.outlap/">
+    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram"/>
+  </a>
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## 🕴️ About Me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LFDECO&show_icons=true&theme=tokyonight)
+- 💻 Grinding **LeetCode** and strengthening problem-solving fundamentals  
+- 🧠 Interested in **Machine Learning, Databases, and System Design**
+- 🏎️ Focused on building skills for **Motorsport Engineering (F1 / WEC)**  
+- 📌 Consistency > Motivation
 
-![GitHub Streak](https://streak-stats.demolab.com?user=LFDECO&theme=tokyonight)
+---
+
+## 📊 LeetCode
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/LFDECO?theme=dark&font=Karma&ext=contest" />
+</p>
+
+---
+
+## 📈 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LFDECO&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=LFDECO&theme=tokyonight" />
+</p>
 
 ---
 
 ## 💻 Most Used Languages
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LFDECO&layout=compact&theme=tokyonight)
-
-
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LFDECO&layout=compact&theme=tokyonight&cache_seconds=86400" />
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+<p align="center">
+  <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c"/>
+  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus"/>
+  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java"/>
+  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git"/>
+</p>
 
 ---
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/LFDECO/LFDECO/blob/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LFDECO/LFDECO/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
-## 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LFDECO&color=blue&style=for-the-badge" />
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=LFDECO&color=blue&style=for-the-badge)
+<h3 align="center">"Great men are not born great, they grow great."</h3>
 
