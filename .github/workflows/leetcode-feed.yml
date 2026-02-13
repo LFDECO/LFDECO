@@ -1,0 +1,43 @@
+name: Update LeetCode Feed
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # runs every 30 minutes
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Profile Repo
+        uses: actions/checkout@v3
+
+      - name: Install jq
+        run: sudo apt-get update && sudo apt-get install -y jq
+
+      - name: Fetch Latest LeetCode Solves
+        run: |
+          echo "<ul>" > lc_feed.txt
+          curl -s "https://api.github.com/repos/LFDECO/Leetcode-solutions/commits?per_page=10" \
+          | jq -r '.[] | "<li>🔥 <b>" + (.commit.message | gsub("\n"; " ")) + "</b></li>"' \
+          >> lc_feed.txt
+          echo "</ul>" >> lc_feed.txt
+
+      - name: Inject into README
+        run: |
+          awk '
+          BEGIN {found=0}
+          /<!-- LEETCODE_SOLVES:START -->/ {print; system("cat lc_feed.txt"); found=1; next}
+          /<!-- LEETCODE_SOLVES:END -->/ {print; found=0; next}
+          !found {print}
+          ' README.md > README_NEW.md
+          mv README_NEW.md README.md
+
+      - name: Commit and Push Changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "Updated LeetCode feed" || exit 0
+          git push
