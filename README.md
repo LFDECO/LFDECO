@@ -38,8 +38,8 @@
 
 <!-- LEETCODE_SOLVES:START -->
 <ul>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0739-daily-temperatures"><b>0739-daily-temperatures</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/1378-replace-employee-id-with-the-unique-identifier"><b>1378-replace-employee-id-with-the-unique-identifier</b></a></li>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3840-house-robber-v"><b>3840-house-robber-v</b></a></li>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3839-number-of-prefix-connected-groups"><b>3839-number-of-prefix-connected-groups</b></a></li>
 </ul>
 <!-- LEETCODE_SOLVES:END -->
 
