@@ -19,44 +19,55 @@ jobs:
       - name: Install jq
         run: sudo apt-get update && sudo apt-get install -y jq
 
-      - name: Fetch Latest LeetCode Solves (Clean)
+      - name: Fetch Latest LeetCode Solves (Clean - 5 Problems)
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           echo "<ul>" > lc_feed.txt
+          COUNT=0
 
           COMMITS=$(curl -s \
             -H "Authorization: Bearer $GH_TOKEN" \
             -H "Accept: application/vnd.github+json" \
             -H "User-Agent: github-actions" \
-            "https://api.github.com/repos/LFDECO/Leetcode-solutions/commits?per_page=10")
+            "https://api.github.com/repos/LFDECO/Leetcode-solutions/commits?per_page=20")
 
           echo "$COMMITS" | jq -r '.[].sha' | while read sha; do
 
-            curl -s \
+            if [ "$COUNT" -ge 5 ]; then
+              break
+            fi
+
+            FILES=$(curl -s \
               -H "Authorization: Bearer $GH_TOKEN" \
               -H "Accept: application/vnd.github+json" \
               -H "User-Agent: github-actions" \
               "https://api.github.com/repos/LFDECO/Leetcode-solutions/commits/$sha" \
-            | jq -r '.files[].filename' \
-            | while read file; do
+              | jq -r '.files[].filename')
 
-                PROBLEM=$(echo "$file" | cut -d'/' -f1)
+            for file in $FILES; do
 
-                # ignore root files like README.md, stats.json
-                if [[ "$PROBLEM" == *".md" ]] || [[ "$PROBLEM" == *".json" ]]; then
-                  continue
-                fi
+              if [ "$COUNT" -ge 5 ]; then
+                break
+              fi
 
-                # only allow real LeetCode folder format like 0184-department-highest-salary
-                if [[ ! "$PROBLEM" =~ ^[0-9]{4}- ]]; then
-                  continue
-                fi
+              PROBLEM=$(echo "$file" | cut -d'/' -f1)
 
-                # avoid duplicates
-                if ! grep -q "$PROBLEM" lc_feed.txt; then
-                  echo "<li><a href=\"https://github.com/LFDECO/Leetcode-solutions/tree/main/$PROBLEM\"><b>$PROBLEM</b></a></li>" >> lc_feed.txt
-                fi
+              # ignore root files like README.md, stats.json
+              if [[ "$PROBLEM" == *".md" ]] || [[ "$PROBLEM" == *".json" ]]; then
+                continue
+              fi
+
+              # only allow real LeetCode folder format like 0184-department-highest-salary
+              if [[ ! "$PROBLEM" =~ ^[0-9]{4}- ]]; then
+                continue
+              fi
+
+              # avoid duplicates
+              if ! grep -q "$PROBLEM" lc_feed.txt; then
+                echo "<li><a href=\"https://github.com/LFDECO/Leetcode-solutions/tree/main/$PROBLEM\"><b>$PROBLEM</b></a></li>" >> lc_feed.txt
+                COUNT=$((COUNT+1))
+              fi
 
             done
           done
@@ -81,4 +92,3 @@ jobs:
           git add README.md
           git commit -m "Updated LeetCode feed" || exit 0
           git push
-
