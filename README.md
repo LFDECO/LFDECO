@@ -21,26 +21,50 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LFDECO&label=PROFILE%20VIEWS&color=blue&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/LFDECO?label=FOLLOWERS&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/LFDECO?label=FOLLOWERS&style=for-the-badge&cacheSeconds=60" />
 </p>
 
 ---
 
-<h2 align="center">🏆 LeetCode Stats</h2>
+<h2 align="center">🏁 LeetCode Contest Dashboard</h2>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/LFDECO?theme=dark&font=Karma&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/LFDECO?theme=dark&font=Karma&ext=contest&border=0&radius=20" width="900"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" width="900"/>
 </p>
 
 ---
 
-<h2 align="center">🔥 Recently Solved LeetCode Problems</h2>
+<h2 align="center">📌 Total Problems Solved</h2>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/LFDECO?theme=dark&font=Karma&ext=heatmap&border=0&radius=20" width="650"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" width="900"/>
+</p>
+
+---
+
+<h2 align="center">⚡ Recently Solved LeetCode Problems</h2>
 
 <!-- LEETCODE_SOLVES:START -->
 <ul>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0511-game-play-analysis-i"><b>0511-game-play-analysis-i</b></a></li>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0511-game-play-analysis-i"><b>0511 Game Play Analysis I</b></a></li>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0184-department-highest-salary"><b>0184 Department Highest Salary</b></a></li>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0176-second-highest-salary"><b>0176 Second Highest Salary</b></a></li>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0175-combine-two-tables"><b>0175 Combine Two Tables</b></a></li>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0174-dungeon-game"><b>0174 Dungeon Game</b></a></li>
 </ul>
 <!-- LEETCODE_SOLVES:END -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" width="900"/>
+</p>
 
 ---
 
@@ -58,12 +82,20 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LFDECO&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" width="900"/>
+</p>
+
 ---
 
 <h2 align="center">🛠 Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,mysql,git,github" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" width="900"/>
 </p>
 
 ---
@@ -74,6 +106,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LFDECO&theme=tokyo-night&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" width="900"/>
+</p>
+
 ---
 
 <h2 align="center">🐍 Contribution Snake</h2>
@@ -81,3 +117,4 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/LFDECO/LFDECO/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
