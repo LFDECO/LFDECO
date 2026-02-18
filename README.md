@@ -39,7 +39,6 @@
 <!-- LEETCODE_SOLVES:START -->
 <ul>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0511-game-play-analysis-i"><b>0511-game-play-analysis-i</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0180-consecutive-numbers"><b>0180-consecutive-numbers</b></a></li>
 </ul>
 <!-- LEETCODE_SOLVES:END -->
 
