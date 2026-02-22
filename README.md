@@ -44,11 +44,11 @@
 
 <!-- LEETCODE_SOLVES:START -->
 <ul>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3850-count-sequences-to-k"><b>3850-count-sequences-to-k</b></a></li>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3849-maximum-bitwise-xor-after-rearrangement"><b>3849-maximum-bitwise-xor-after-rearrangement</b></a></li>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3848-check-digitorial-permutation"><b>3848-check-digitorial-permutation</b></a></li>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3847-find-the-score-difference-in-a-game"><b>3847-find-the-score-difference-in-a-game</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0344-reverse-string"><b>0344-reverse-string</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0509-fibonacci-number"><b>0509-fibonacci-number</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0262-trips-and-users"><b>0262-trips-and-users</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0704-binary-search"><b>0704-binary-search</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0435-non-overlapping-intervals"><b>0435-non-overlapping-intervals</b></a></li>
 </ul>
 <!-- LEETCODE_SOLVES:END -->
 
