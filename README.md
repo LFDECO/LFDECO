@@ -48,7 +48,6 @@
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3849-maximum-bitwise-xor-after-rearrangement"><b>3849-maximum-bitwise-xor-after-rearrangement</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3848-check-digitorial-permutation"><b>3848-check-digitorial-permutation</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3847-find-the-score-difference-in-a-game"><b>3847-find-the-score-difference-in-a-game</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0344-reverse-string"><b>0344-reverse-string</b></a></li>
 </ul>
 <!-- LEETCODE_SOLVES:END -->
 
