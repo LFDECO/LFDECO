@@ -44,10 +44,10 @@
 
 <!-- LEETCODE_SOLVES:START -->
 <ul>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0550-game-play-analysis-iv"><b>0550-game-play-analysis-iv</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3850-count-sequences-to-k"><b>3850-count-sequences-to-k</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3849-maximum-bitwise-xor-after-rearrangement"><b>3849-maximum-bitwise-xor-after-rearrangement</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3848-check-digitorial-permutation"><b>3848-check-digitorial-permutation</b></a></li>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0709-to-lower-case"><b>0709-to-lower-case</b></a></li>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0049-group-anagrams"><b>0049-group-anagrams</b></a></li>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0162-find-peak-element"><b>0162-find-peak-element</b></a></li>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0204-count-primes"><b>0204-count-primes</b></a></li>
 </ul>
 <!-- LEETCODE_SOLVES:END -->
 
