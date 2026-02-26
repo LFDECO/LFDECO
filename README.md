@@ -60,7 +60,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=LFDECO&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=LFDECO&theme=tokyonight&hide_border=true&cache_bust=1" />
 </p>
 
 <p align="center">
