@@ -44,11 +44,11 @@
 
 <!-- LEETCODE_SOLVES:START -->
 <ul>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0485-max-consecutive-ones"><b>0485-max-consecutive-ones</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0134-gas-station"><b>0134-gas-station</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0242-valid-anagram"><b>0242-valid-anagram</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3855-sum-of-k-digit-numbers-in-a-range"><b>3855-sum-of-k-digit-numbers-in-a-range</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3853-merge-close-characters"><b>3853-merge-close-characters</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3852-smallest-pair-with-different-frequencies"><b>3852-smallest-pair-with-different-frequencies</b></a></li>
 </ul>
 <!-- LEETCODE_SOLVES:END -->
 
