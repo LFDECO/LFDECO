@@ -44,11 +44,10 @@
 
 <!-- LEETCODE_SOLVES:START -->
 <ul>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0268-missing-number"><b>0268-missing-number</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones"><b>1784-check-if-binary-string-has-at-most-one-segment-of-ones</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0485-max-consecutive-ones"><b>0485-max-consecutive-ones</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0134-gas-station"><b>0134-gas-station</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0242-valid-anagram"><b>0242-valid-anagram</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3855-sum-of-k-digit-numbers-in-a-range"><b>3855-sum-of-k-digit-numbers-in-a-range</b></a></li>
 </ul>
 <!-- LEETCODE_SOLVES:END -->
 
