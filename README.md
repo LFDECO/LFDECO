@@ -44,10 +44,10 @@
 
 <!-- LEETCODE_SOLVES:START -->
 <ul>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/1143-longest-common-subsequence"><b>1143-longest-common-subsequence</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0283-move-zeroes"><b>0283-move-zeroes</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0268-missing-number"><b>0268-missing-number</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones"><b>1784-check-if-binary-string-has-at-most-one-segment-of-ones</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0485-max-consecutive-ones"><b>0485-max-consecutive-ones</b></a></li>
 </ul>
 <!-- LEETCODE_SOLVES:END -->
 
