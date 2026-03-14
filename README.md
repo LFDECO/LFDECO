@@ -44,11 +44,11 @@
 
 <!-- LEETCODE_SOLVES:START -->
 <ul>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3868-minimum-cost-to-equalize-arrays-using-swaps"><b>3868-minimum-cost-to-equalize-arrays-using-swaps</b></a></li>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3867-sum-of-gcd-of-formed-pairs"><b>3867-sum-of-gcd-of-formed-pairs</b></a></li>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3866-first-unique-even-element"><b>3866-first-unique-even-element</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k"><b>2461-maximum-sum-of-distinct-subarrays-with-length-k</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0643-maximum-average-subarray-i"><b>0643-maximum-average-subarray-i</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0389-find-the-difference"><b>0389-find-the-difference</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0974-subarray-sums-divisible-by-k"><b>0974-subarray-sums-divisible-by-k</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0560-subarray-sum-equals-k"><b>0560-subarray-sum-equals-k</b></a></li>
 </ul>
 <!-- LEETCODE_SOLVES:END -->
 
