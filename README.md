@@ -44,11 +44,11 @@
 
 <!-- LEETCODE_SOLVES:START -->
 <ul>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length"><b>1456-maximum-number-of-vowels-in-a-substring-of-given-length</b></a></li>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks"><b>2379-minimum-recolors-to-get-k-consecutive-black-blocks</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3868-minimum-cost-to-equalize-arrays-using-swaps"><b>3868-minimum-cost-to-equalize-arrays-using-swaps</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3867-sum-of-gcd-of-formed-pairs"><b>3867-sum-of-gcd-of-formed-pairs</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3866-first-unique-even-element"><b>3866-first-unique-even-element</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k"><b>2461-maximum-sum-of-distinct-subarrays-with-length-k</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0643-maximum-average-subarray-i"><b>0643-maximum-average-subarray-i</b></a></li>
 </ul>
 <!-- LEETCODE_SOLVES:END -->
 
