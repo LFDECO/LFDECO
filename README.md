@@ -44,11 +44,11 @@
 
 <!-- LEETCODE_SOLVES:START -->
 <ul>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0627-swap-sex-of-employees"><b>0627-swap-sex-of-employees</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0585-investments-in-2016"><b>0585-investments-in-2016</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length"><b>1456-maximum-number-of-vowels-in-a-substring-of-given-length</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks"><b>2379-minimum-recolors-to-get-k-consecutive-black-blocks</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3868-minimum-cost-to-equalize-arrays-using-swaps"><b>3868-minimum-cost-to-equalize-arrays-using-swaps</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3867-sum-of-gcd-of-formed-pairs"><b>3867-sum-of-gcd-of-formed-pairs</b></a></li>
 </ul>
 <!-- LEETCODE_SOLVES:END -->
 
