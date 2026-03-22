@@ -44,9 +44,10 @@
 
 <!-- LEETCODE_SOLVES:START -->
 <ul>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0100-same-tree"><b>0100-same-tree</b></a></li>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0877-stone-game"><b>0877-stone-game</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0438-find-all-anagrams-in-a-string"><b>0438-find-all-anagrams-in-a-string</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0110-balanced-binary-tree"><b>0110-balanced-binary-tree</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0626-exchange-seats"><b>0626-exchange-seats</b></a></li>
 </ul>
 <!-- LEETCODE_SOLVES:END -->
 
