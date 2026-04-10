@@ -44,11 +44,11 @@
 
 <!-- LEETCODE_SOLVES:START -->
 <ul>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0875-koko-eating-bananas"><b>0875-koko-eating-bananas</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards"><b>1423-maximum-points-you-can-obtain-from-cards</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/1052-grumpy-bookstore-owner"><b>1052-grumpy-bookstore-owner</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0009-palindrome-number"><b>0009-palindrome-number</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/2235-add-two-integers"><b>2235-add-two-integers</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0682-baseball-game"><b>0682-baseball-game</b></a></li>
 </ul>
 <!-- LEETCODE_SOLVES:END -->
 
