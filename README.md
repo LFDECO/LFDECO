@@ -44,11 +44,11 @@
 
 <!-- LEETCODE_SOLVES:START -->
 <ul>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0410-split-array-largest-sum"><b>0410-split-array-largest-sum</b></a></li>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/1011-capacity-to-ship-packages-within-d-days"><b>1011-capacity-to-ship-packages-within-d-days</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0001-two-sum"><b>0001-two-sum</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0596-classes-with-at-least-5-students"><b>0596-classes-with-at-least-5-students</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0875-koko-eating-bananas"><b>0875-koko-eating-bananas</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards"><b>1423-maximum-points-you-can-obtain-from-cards</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/1052-grumpy-bookstore-owner"><b>1052-grumpy-bookstore-owner</b></a></li>
 </ul>
 <!-- LEETCODE_SOLVES:END -->
 
