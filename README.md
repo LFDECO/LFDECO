@@ -44,11 +44,11 @@
 
 <!-- LEETCODE_SOLVES:START -->
 <ul>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0051-n-queens"><b>0051-n-queens</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0570-managers-with-at-least-5-direct-reports"><b>0570-managers-with-at-least-5-direct-reports</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/1295-find-numbers-with-even-number-of-digits"><b>1295-find-numbers-with-even-number-of-digits</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0342-power-of-four"><b>0342-power-of-four</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0326-power-of-three"><b>0326-power-of-three</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0231-power-of-two"><b>0231-power-of-two</b></a></li>
 </ul>
 <!-- LEETCODE_SOLVES:END -->
 
