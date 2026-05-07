@@ -47,7 +47,6 @@
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0001-two-sum"><b>0001-two-sum</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0091-decode-ways"><b>0091-decode-ways</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0412-fizz-buzz"><b>0412-fizz-buzz</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0009-palindrome-number"><b>0009-palindrome-number</b></a></li>
 </ul>
 <!-- LEETCODE_SOLVES:END -->
 
