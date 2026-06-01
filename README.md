@@ -44,6 +44,7 @@
 
 <!-- LEETCODE_SOLVES:START -->
 <ul>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array"><b>0442-find-all-duplicates-in-an-array</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0054-spiral-matrix"><b>0054-spiral-matrix</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array"><b>0448-find-all-numbers-disappeared-in-an-array</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0001-two-sum"><b>0001-two-sum</b></a></li>
