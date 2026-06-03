@@ -44,9 +44,10 @@
 
 <!-- LEETCODE_SOLVES:START -->
 <ul>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0383-ransom-note"><b>0383-ransom-note</b></a></li>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0977-squares-of-a-sorted-array"><b>0977-squares-of-a-sorted-array</b></a></li>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0347-top-k-frequent-elements"><b>0347-top-k-frequent-elements</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0016-3sum-closest"><b>0016-3sum-closest</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0680-valid-palindrome-ii"><b>0680-valid-palindrome-ii</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array"><b>0442-find-all-duplicates-in-an-array</b></a></li>
 </ul>
 <!-- LEETCODE_SOLVES:END -->
 
