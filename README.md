@@ -44,10 +44,11 @@
 
 <!-- LEETCODE_SOLVES:START -->
 <ul>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0771-jewels-and-stones"><b>0771-jewels-and-stones</b></a></li>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0374-guess-number-higher-or-lower"><b>0374-guess-number-higher-or-lower</b></a></li>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii"><b>0240-search-a-2d-matrix-ii</b></a></li>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0315-count-of-smaller-numbers-after-self"><b>0315-count-of-smaller-numbers-after-self</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii"><b>0154-find-minimum-in-rotated-sorted-array-ii</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0383-ransom-note"><b>0383-ransom-note</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0977-squares-of-a-sorted-array"><b>0977-squares-of-a-sorted-array</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0347-top-k-frequent-elements"><b>0347-top-k-frequent-elements</b></a></li>
 </ul>
 <!-- LEETCODE_SOLVES:END -->
 
