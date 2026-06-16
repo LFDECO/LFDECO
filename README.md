@@ -44,11 +44,11 @@
 
 <!-- LEETCODE_SOLVES:START -->
 <ul>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0961-n-repeated-element-in-size-2n-array"><b>0961-n-repeated-element-in-size-2n-array</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0203-remove-linked-list-elements"><b>0203-remove-linked-list-elements</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0287-find-the-duplicate-number"><b>0287-find-the-duplicate-number</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0206-reverse-linked-list"><b>0206-reverse-linked-list</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3955-valid-binary-strings-with-cost-limit"><b>3955-valid-binary-strings-with-cost-limit</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0771-jewels-and-stones"><b>0771-jewels-and-stones</b></a></li>
 </ul>
 <!-- LEETCODE_SOLVES:END -->
 
