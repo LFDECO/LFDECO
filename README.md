@@ -44,11 +44,11 @@
 
 <!-- LEETCODE_SOLVES:START -->
 <ul>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0137-single-number-ii"><b>0137-single-number-ii</b></a></li>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/1344-angle-between-hands-of-a-clock"><b>1344-angle-between-hands-of-a-clock</b></a></li>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0371-sum-of-two-integers"><b>0371-sum-of-two-integers</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0445-add-two-numbers-ii"><b>0445-add-two-numbers-ii</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0148-sort-list"><b>0148-sort-list</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0961-n-repeated-element-in-size-2n-array"><b>0961-n-repeated-element-in-size-2n-array</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0203-remove-linked-list-elements"><b>0203-remove-linked-list-elements</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0287-find-the-duplicate-number"><b>0287-find-the-duplicate-number</b></a></li>
 </ul>
 <!-- LEETCODE_SOLVES:END -->
 
