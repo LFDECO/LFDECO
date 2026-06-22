@@ -44,11 +44,11 @@
 
 <!-- LEETCODE_SOLVES:START -->
 <ul>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/1046-last-stone-weight"><b>1046-last-stone-weight</b></a></li>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0260-single-number-iii"><b>0260-single-number-iii</b></a></li>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/1833-maximum-ice-cream-bars"><b>1833-maximum-ice-cream-bars</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/1732-find-the-highest-altitude"><b>1732-find-the-highest-altitude</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0137-single-number-ii"><b>0137-single-number-ii</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/1344-angle-between-hands-of-a-clock"><b>1344-angle-between-hands-of-a-clock</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0371-sum-of-two-integers"><b>0371-sum-of-two-integers</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0445-add-two-numbers-ii"><b>0445-add-two-numbers-ii</b></a></li>
 </ul>
 <!-- LEETCODE_SOLVES:END -->
 
