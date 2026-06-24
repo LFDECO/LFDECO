@@ -44,11 +44,11 @@
 
 <!-- LEETCODE_SOLVES:START -->
 <ul>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3700-number-of-zigzag-arrays-ii"><b>3700-number-of-zigzag-arrays-ii</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix"><b>0378-kth-smallest-element-in-a-sorted-matrix</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array"><b>0215-kth-largest-element-in-an-array</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/1046-last-stone-weight"><b>1046-last-stone-weight</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0260-single-number-iii"><b>0260-single-number-iii</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/1833-maximum-ice-cream-bars"><b>1833-maximum-ice-cream-bars</b></a></li>
 </ul>
 <!-- LEETCODE_SOLVES:END -->
 
