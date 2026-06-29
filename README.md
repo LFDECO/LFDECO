@@ -44,11 +44,11 @@
 
 <!-- LEETCODE_SOLVES:START -->
 <ul>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word"><b>1967-number-of-strings-that-appear-as-substrings-in-word</b></a></li>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0239-sliding-window-maximum"><b>0239-sliding-window-maximum</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset"><b>3020-find-the-maximum-number-of-elements-in-subset</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0036-valid-sudoku"><b>0036-valid-sudoku</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/1051-height-checker"><b>1051-height-checker</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3700-number-of-zigzag-arrays-ii"><b>3700-number-of-zigzag-arrays-ii</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix"><b>0378-kth-smallest-element-in-a-sorted-matrix</b></a></li>
 </ul>
 <!-- LEETCODE_SOLVES:END -->
 
