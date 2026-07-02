@@ -44,11 +44,11 @@
 
 <!-- LEETCODE_SOLVES:START -->
 <ul>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid"><b>3286-find-a-safe-walk-through-a-grid</b></a></li>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0567-permutation-in-string"><b>0567-permutation-in-string</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters"><b>1358-number-of-substrings-containing-all-three-characters</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters"><b>0003-longest-substring-without-repeating-characters</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word"><b>1967-number-of-strings-that-appear-as-substrings-in-word</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0239-sliding-window-maximum"><b>0239-sliding-window-maximum</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset"><b>3020-find-the-maximum-number-of-elements-in-subset</b></a></li>
 </ul>
 <!-- LEETCODE_SOLVES:END -->
 
