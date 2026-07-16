@@ -44,11 +44,6 @@
 
 <!-- LEETCODE_SOLVES:START -->
 <ul>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0547-number-of-provinces"><b>0547-number-of-provinces</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/1301-number-of-paths-with-max-score"><b>1301-number-of-paths-with-max-score</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities"><b>2492-minimum-score-of-a-path-between-two-cities</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid"><b>3286-find-a-safe-walk-through-a-grid</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0567-permutation-in-string"><b>0567-permutation-in-string</b></a></li>
 </ul>
 <!-- LEETCODE_SOLVES:END -->
 
