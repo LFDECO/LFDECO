@@ -44,11 +44,11 @@
 
 <!-- LEETCODE_SOLVES:START -->
 <ul>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/1406-stone-game-iii"><b>1406-stone-game-iii</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0292-nim-game"><b>0292-nim-game</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i"><b>3014-minimum-number-of-pushes-to-type-word-i</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0207-course-schedule"><b>0207-course-schedule</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3518-smallest-palindromic-rearrangement-ii"><b>3518-smallest-palindromic-rearrangement-ii</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/1971-find-if-path-exists-in-graph"><b>1971-find-if-path-exists-in-graph</b></a></li>
 </ul>
 <!-- LEETCODE_SOLVES:END -->
 
