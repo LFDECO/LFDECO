@@ -44,11 +44,11 @@
 
 <!-- LEETCODE_SOLVES:START -->
 <ul>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3345-smallest-divisible-digit-product-i"><b>3345-smallest-divisible-digit-product-i</b></a></li>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0076-minimum-window-substring"><b>0076-minimum-window-substring</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3731-find-missing-elements"><b>3731-find-missing-elements</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/1406-stone-game-iii"><b>1406-stone-game-iii</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0292-nim-game"><b>0292-nim-game</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i"><b>3014-minimum-number-of-pushes-to-type-word-i</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0207-course-schedule"><b>0207-course-schedule</b></a></li>
 </ul>
 <!-- LEETCODE_SOLVES:END -->
 
