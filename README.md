@@ -44,11 +44,11 @@
 
 <!-- LEETCODE_SOLVES:START -->
 <ul>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence"><b>3302-find-the-lexicographically-smallest-valid-sequence</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3348-smallest-divisible-digit-product-ii"><b>3348-smallest-divisible-digit-product-ii</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0155-min-stack"><b>0155-min-stack</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0020-valid-parentheses"><b>0020-valid-parentheses</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3345-smallest-divisible-digit-product-i"><b>3345-smallest-divisible-digit-product-i</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0076-minimum-window-substring"><b>0076-minimum-window-substring</b></a></li>
 </ul>
 <!-- LEETCODE_SOLVES:END -->
 
