@@ -44,11 +44,11 @@
 
 <!-- LEETCODE_SOLVES:START -->
 <ul>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0881-boats-to-save-people"><b>0881-boats-to-save-people</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0229-majority-element-ii"><b>0229-majority-element-ii</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/1929-concatenation-of-array"><b>1929-concatenation-of-array</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/1510-stone-game-iv"><b>1510-stone-game-iv</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0746-min-cost-climbing-stairs"><b>0746-min-cost-climbing-stairs</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence"><b>3302-find-the-lexicographically-smallest-valid-sequence</b></a></li>
 </ul>
 <!-- LEETCODE_SOLVES:END -->
 
