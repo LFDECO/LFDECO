@@ -44,11 +44,11 @@
 
 <!-- LEETCODE_SOLVES:START -->
 <ul>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/1927-sum-game"><b>1927-sum-game</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination"><b>3116-kth-smallest-amount-with-single-denomination-combination</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0994-rotting-oranges"><b>0994-rotting-oranges</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/1470-shuffle-the-array"><b>1470-shuffle-the-array</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer"><b>1281-subtract-the-product-and-sum-of-digits-of-an-integer</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i"><b>3069-distribute-elements-into-two-arrays-i</b></a></li>
 </ul>
 <!-- LEETCODE_SOLVES:END -->
 
