@@ -44,11 +44,11 @@
 
 <!-- LEETCODE_SOLVES:START -->
 <ul>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target"><b>3734-lexicographically-smallest-palindromic-permutation-greater-than-target</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0860-lemonade-change"><b>0860-lemonade-change</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string"><b>2904-shortest-and-lexicographically-smallest-beautiful-string</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0133-clone-graph"><b>0133-clone-graph</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k"><b>3718-smallest-missing-multiple-of-k</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/1872-stone-game-viii"><b>1872-stone-game-viii</b></a></li>
 </ul>
 <!-- LEETCODE_SOLVES:END -->
 
