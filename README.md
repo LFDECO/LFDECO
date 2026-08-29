@@ -56,8 +56,14 @@
 
 <h2 align="center">📈 GitHub Stats</h2>
 
+<!-- Main Stats -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LFDECO&theme=github_dark" />
+  <img src="https://github-readme-stats.panzer.vip/api?username=LFDECO&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
+
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.panzer.vip/api/top-langs/?username=LFDECO&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
