@@ -77,10 +77,10 @@
 
 ---
 
-<h2 align="center">⚡ GitHub Activity Graph</h2>
+<h2 align="center"> GitHub Activity Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LFDECO&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LFDECO&theme=github-compact&hide_border=true" />
 </p>
 
 ---
