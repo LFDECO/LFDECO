@@ -56,16 +56,17 @@
 
 <h2 align="center">📈 GitHub Stats</h2>
 
-<!-- Main Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.panzer.vip/api?username=LFDECO&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LFDECO&theme=github_dark" />
 </p>
 
-<!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.panzer.vip/api/top-langs/?username=LFDECO&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=LFDECO&theme=github_dark&hide_border=true&cache_bust=1" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LFDECO&theme=github_dark" />
+</p>
 ---
 
 <h2 align="center">🛠 Tech Stack</h2>
