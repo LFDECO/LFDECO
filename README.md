@@ -44,11 +44,11 @@
 
 <!-- LEETCODE_SOLVES:START -->
 <ul>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/2029-stone-game-ix"><b>2029-stone-game-ix</b></a></li>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points"><b>2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0417-pacific-atlantic-water-flow"><b>0417-pacific-atlantic-water-flow</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array"><b>2091-removing-minimum-and-maximum-from-array</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements"><b>2948-make-lexicographically-smallest-array-by-swapping-elements</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0219-contains-duplicate-ii"><b>0219-contains-duplicate-ii</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target"><b>3734-lexicographically-smallest-palindromic-permutation-greater-than-target</b></a></li>
 </ul>
 <!-- LEETCODE_SOLVES:END -->
 
