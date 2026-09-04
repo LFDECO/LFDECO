@@ -44,11 +44,11 @@
 
 <!-- LEETCODE_SOLVES:START -->
 <ul>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3903-smallest-stable-index-i"><b>3903-smallest-stable-index-i</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3876-construct-uniform-parity-array-ii"><b>3876-construct-uniform-parity-array-ii</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i"><b>3875-construct-uniform-parity-array-i</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom"><b>3568-minimum-moves-to-clean-the-classroom</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/2029-stone-game-ix"><b>2029-stone-game-ix</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points"><b>2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points</b></a></li>
 </ul>
 <!-- LEETCODE_SOLVES:END -->
 
