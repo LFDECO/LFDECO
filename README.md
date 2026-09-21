@@ -44,11 +44,11 @@
 
 <!-- LEETCODE_SOLVES:START -->
 <ul>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0486-predict-the-winner"><b>0486-predict-the-winner</b></a></li>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3524-find-x-value-of-array-i"><b>3524-find-x-value-of-array-i</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii"><b>3756-concatenate-non-zero-digits-and-multiply-by-sum-ii</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3498-reverse-degree-of-a-string"><b>3498-reverse-degree-of-a-string</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3310-remove-methods-from-project"><b>3310-remove-methods-from-project</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/2879-display-the-first-three-rows"><b>2879-display-the-first-three-rows</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0901-online-stock-span"><b>0901-online-stock-span</b></a></li>
 </ul>
 <!-- LEETCODE_SOLVES:END -->
 
