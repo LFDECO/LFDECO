@@ -44,11 +44,11 @@
 
 <!-- LEETCODE_SOLVES:START -->
 <ul>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index"><b>3550-smallest-index-with-digit-sum-equal-to-index</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0610-triangle-judgement"><b>0610-triangle-judgement</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii"><b>3016-minimum-number-of-pushes-to-type-word-ii</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero"><b>1658-minimum-operations-to-reduce-x-to-zero</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0881-boats-to-save-people"><b>0881-boats-to-save-people</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0049-group-anagrams"><b>0049-group-anagrams</b></a></li>
 </ul>
 <!-- LEETCODE_SOLVES:END -->
 
