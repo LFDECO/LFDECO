@@ -44,11 +44,11 @@
 
 <!-- LEETCODE_SOLVES:START -->
 <ul>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid"><b>0921-minimum-add-to-make-parentheses-valid</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0856-score-of-parentheses"><b>0856-score-of-parentheses</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0678-valid-parenthesis-string"><b>0678-valid-parenthesis-string</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0032-longest-valid-parentheses"><b>0032-longest-valid-parentheses</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0496-next-greater-element-i"><b>0496-next-greater-element-i</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0020-valid-parentheses"><b>0020-valid-parentheses</b></a></li>
 </ul>
 <!-- LEETCODE_SOLVES:END -->
 
