@@ -44,11 +44,11 @@
 
 <!-- LEETCODE_SOLVES:START -->
 <ul>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0763-partition-labels"><b>0763-partition-labels</b></a></li>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/2333-minimum-sum-of-squared-difference"><b>2333-minimum-sum-of-squared-difference</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/1021-remove-outermost-parentheses"><b>1021-remove-outermost-parentheses</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0301-remove-invalid-parentheses"><b>0301-remove-invalid-parentheses</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid"><b>0921-minimum-add-to-make-parentheses-valid</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0856-score-of-parentheses"><b>0856-score-of-parentheses</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0678-valid-parenthesis-string"><b>0678-valid-parenthesis-string</b></a></li>
 </ul>
 <!-- LEETCODE_SOLVES:END -->
 
