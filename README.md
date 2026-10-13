@@ -44,11 +44,11 @@
 
 <!-- LEETCODE_SOLVES:START -->
 <ul>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3727-maximum-alternating-sum-of-squares"><b>3727-maximum-alternating-sum-of-squares</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares"><b>2897-apply-operations-on-array-to-maximize-sum-of-squares</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/2778-sum-of-squares-of-special-elements"><b>2778-sum-of-squares-of-special-elements</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0763-partition-labels"><b>0763-partition-labels</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/2333-minimum-sum-of-squared-difference"><b>2333-minimum-sum-of-squared-difference</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/1021-remove-outermost-parentheses"><b>1021-remove-outermost-parentheses</b></a></li>
 </ul>
 <!-- LEETCODE_SOLVES:END -->
 
