@@ -44,11 +44,11 @@
 
 <!-- LEETCODE_SOLVES:START -->
 <ul>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i"><b>2913-subarrays-distinct-element-sum-of-squares-i</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3723-maximize-sum-of-squares-of-digits"><b>3723-maximize-sum-of-squares-of-digits</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3727-maximum-alternating-sum-of-squares"><b>3727-maximum-alternating-sum-of-squares</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares"><b>2897-apply-operations-on-array-to-maximize-sum-of-squares</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/2778-sum-of-squares-of-special-elements"><b>2778-sum-of-squares-of-special-elements</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/0763-partition-labels"><b>0763-partition-labels</b></a></li>
 </ul>
 <!-- LEETCODE_SOLVES:END -->
 
