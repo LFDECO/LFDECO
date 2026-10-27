@@ -44,11 +44,11 @@
 
 <!-- LEETCODE_SOLVES:START -->
 <ul>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3963-create-grid-with-exactly-one-path"><b>3963-create-grid-with-exactly-one-path</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k"><b>3619-count-islands-with-total-value-divisible-by-k</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i"><b>2913-subarrays-distinct-element-sum-of-squares-i</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3723-maximize-sum-of-squares-of-digits"><b>3723-maximize-sum-of-squares-of-digits</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3727-maximum-alternating-sum-of-squares"><b>3727-maximum-alternating-sum-of-squares</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares"><b>2897-apply-operations-on-array-to-maximize-sum-of-squares</b></a></li>
 </ul>
 <!-- LEETCODE_SOLVES:END -->
 
