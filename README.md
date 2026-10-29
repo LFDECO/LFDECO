@@ -44,11 +44,11 @@
 
 <!-- LEETCODE_SOLVES:START -->
 <ul>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3841-palindromic-path-queries-in-a-tree"><b>3841-palindromic-path-queries-in-a-tree</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3882-minimum-xor-path-in-a-grid"><b>3882-minimum-xor-path-in-a-grid</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3963-create-grid-with-exactly-one-path"><b>3963-create-grid-with-exactly-one-path</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k"><b>3619-count-islands-with-total-value-divisible-by-k</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i"><b>2913-subarrays-distinct-element-sum-of-squares-i</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3723-maximize-sum-of-squares-of-digits"><b>3723-maximize-sum-of-squares-of-digits</b></a></li>
 </ul>
 <!-- LEETCODE_SOLVES:END -->
 
