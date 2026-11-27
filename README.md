@@ -44,11 +44,11 @@
 
 <!-- LEETCODE_SOLVES:START -->
 <ul>
+<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3946-maximum-number-of-items-from-sale-i"><b>3946-maximum-number-of-items-from-sale-i</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3360-stone-removal-game"><b>3360-stone-removal-game</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3934-smallest-unique-subarray"><b>3934-smallest-unique-subarray</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/1352-product-of-the-last-k-numbers"><b>1352-product-of-the-last-k-numbers</b></a></li>
 <li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/2124-check-if-all-as-appears-before-all-bs"><b>2124-check-if-all-as-appears-before-all-bs</b></a></li>
-<li><a href="https://github.com/LFDECO/Leetcode-solutions/tree/main/3331-find-subtree-sizes-after-changes"><b>3331-find-subtree-sizes-after-changes</b></a></li>
 </ul>
 <!-- LEETCODE_SOLVES:END -->
 
